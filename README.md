@@ -33,7 +33,7 @@
 ## :pushpin: Deployment
 
 ```bash
-  git clone https://github.com/unluckyhacker/universal_debloater
+  git clone https://github.com/unluckyhacker/universal_debloater.git
 ```
 ```bash
   cd universal_debloater
