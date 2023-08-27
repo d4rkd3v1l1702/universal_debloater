@@ -1,5 +1,6 @@
 
-# Universal Debloater
+<h1 align="center"> Universal Debloater </h1>
+
  Universal Debloater script helps you remove bloatware from your Android mobile device by utilizing de-bloat files customized for various device brands. It uses the Android Debug Bridge (ADB) to uninstall specified packages.
 
 
